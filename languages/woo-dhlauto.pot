@@ -1,0 +1,83 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo DHL Auto Complete\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-27 05:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: Woo-dhl-freight-auto-complete-orders.php:54
+msgid "Done packing"
+msgstr ""
+
+#: Woo-dhl-freight-auto-complete-orders.php:85
+msgid "Api Username"
+msgstr ""
+
+#: Woo-dhl-freight-auto-complete-orders.php:87
+msgid ""
+"What is your API username. Should be the same as your login to the myACT "
+"portal"
+msgstr ""
+
+#: Woo-dhl-freight-auto-complete-orders.php:87
+msgid "Click here for Portal"
+msgstr ""
+
+#: Woo-dhl-freight-auto-complete-orders.php:91
+msgid "API Password"
+msgstr ""
+
+#: Woo-dhl-freight-auto-complete-orders.php:93
+msgid ""
+"What is your API password. Should be the same as your password to the myACT "
+"portal"
+msgstr ""
+
+#: Woo-dhl-freight-auto-complete-orders.php:97
+msgid "Create Debug log?"
+msgstr ""
+
+#: Woo-dhl-freight-auto-complete-orders.php:98
+msgid "Yes"
+msgstr ""
+
+#: Woo-dhl-freight-auto-complete-orders.php:118
+#: Woo-dhl-freight-auto-complete-orders.php:132
+msgid "Awaiting shipment"
+msgstr ""
+
+#: Woo-dhl-freight-auto-complete-orders.php:123
+#, php-format
+msgid "Awaiting shipment <span class=\"count\">(%s)</span>"
+msgid_plural "Awaiting shipment <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Name of the plugin
+msgid "Woo DHL Auto Complete"
+msgstr ""
+
+#. Description of the plugin
+msgid "Auto Completing orders through DHL API"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://developer.wordpress.org/plugins/the-basics/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WordPress.org"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://mnording.com"
+msgstr ""
